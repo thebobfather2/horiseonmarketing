@@ -3,11 +3,16 @@
     padding: 0;
     margin: 0;
 }
-
+/*
+body background goes here
+*/
 body {
     background-color: #d9dcd6;
 }
 
+/*
+all header formatting here
+*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +29,9 @@ body {
     color: #d9dcd6;
 }
 
+/*
+navigation bar style goes here
+*/
 .nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,15 +51,24 @@ body {
     margin-left: 25px;
 }
 
+/*
+style for links goes here
+*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/*
+general paragraph style goes here
+*/
 p {
     font-size: 16px;
 }
 
+/*
+styling for the main box goes here
+*/
 .main {
     height: 800px;
     width: 100%;
@@ -158,6 +175,9 @@ p {
     font-size: 36px;
 }
 
+/*
+style for footer goes here
+*/
 .footer {
     padding: 30px;
     clear: both;
