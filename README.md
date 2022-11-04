@@ -1,5 +1,8 @@
 # Horiseon Marketing Official Site Rebuild
 
+## Technology Used
+This site was built using HTML and CSS
+
 ## Streamlined Code
 CSS has been streamlined to eliminate redundencies
 
